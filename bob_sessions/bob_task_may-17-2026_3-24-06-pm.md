@@ -747,7 +747,7 @@ You have not created a todo list yet. Create one with `update_todo_list` if your
 </file>
 <file><path>emailapp/.env</path>
 <content lines="1-1">
-1 | GEMINI_API_KEY=AIzaSyCThDN51XUpyq67qXYQTPynQ40M7tX23uE
+1 | GEMINI_API_KEY="----------^-"
 </content>
 </file>
 </files>
