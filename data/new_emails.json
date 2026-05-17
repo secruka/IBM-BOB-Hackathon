@@ -1,0 +1,66 @@
+[
+  {
+    "id": 101,
+    "subject": "CRITICAL: Complete system failure - business stopped",
+    "sender": "ceo@manufacturing.com",
+    "body": "Our entire production line has stopped because your system is down. We have 200 workers idle and are losing $50,000 per hour. This is a catastrophic failure and we need immediate executive escalation. If this isn't resolved in the next hour, we will be forced to consider our legal options and alternative vendors.",
+    "customer_tier": "enterprise",
+    "customer_ltv": 800000
+  },
+  {
+    "id": 102,
+    "subject": "Quick question about export feature",
+    "sender": "user@smallcompany.com",
+    "body": "Hi there! I'm trying to export my data to CSV but can't find the button. Could you point me in the right direction? No rush, just when you have a moment. Thanks!",
+    "customer_tier": "basic",
+    "customer_ltv": 1200
+  },
+  {
+    "id": 103,
+    "subject": "Disappointed with recent changes",
+    "sender": "longtime.customer@business.net",
+    "body": "I've been with you for 3 years and have always been happy, but the recent UI changes have made everything more complicated. Several features I relied on are now harder to find. I'm starting to look at alternatives because this is affecting my team's productivity.",
+    "customer_tier": "premium",
+    "customer_ltv": 95000
+  },
+  {
+    "id": 104,
+    "subject": "Interested in enterprise plan",
+    "sender": "expansion@growthcompany.com",
+    "body": "We're currently on the premium plan but our company is growing rapidly. We'd like to learn more about your enterprise offerings, especially around dedicated support, custom integrations, and volume pricing. Can we schedule a call this week?",
+    "customer_tier": "premium",
+    "customer_ltv": 65000
+  },
+  {
+    "id": 105,
+    "subject": "Security audit requirements",
+    "sender": "compliance@healthcare.org",
+    "body": "As part of our annual security audit, we need documentation of your SOC 2 compliance, data encryption methods, and incident response procedures. We need this by Friday to maintain our certification. Please prioritize this request.",
+    "customer_tier": "enterprise",
+    "customer_ltv": 420000
+  },
+  {
+    "id": 106,
+    "subject": "Love the new features!",
+    "sender": "happy@designstudio.com",
+    "body": "Just wanted to drop a note to say the new collaboration features are fantastic! Our team's workflow has improved significantly. Keep up the great work!",
+    "customer_tier": "standard",
+    "customer_ltv": 18000
+  },
+  {
+    "id": 107,
+    "subject": "Billing error - overcharged again",
+    "sender": "frustrated.finance@company.com",
+    "body": "This is the second month in a row we've been overcharged. Last month you promised to fix the billing system but it happened again. We're paying for 50 users but only have 35. I need this corrected immediately and a refund issued. This is becoming a serious problem.",
+    "customer_tier": "premium",
+    "customer_ltv": 72000
+  },
+  {
+    "id": 108,
+    "subject": "API rate limit hit - need urgent increase",
+    "sender": "devops@techcompany.io",
+    "body": "We're launching a major campaign tomorrow and just realized we'll hit our API rate limits within the first hour. We need an emergency rate limit increase or our launch will fail. This is time-sensitive - launch is in 18 hours.",
+    "customer_tier": "premium",
+    "customer_ltv": 110000
+  }
+]

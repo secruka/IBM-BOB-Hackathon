@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "subject": "Urgent: Service outage affecting our operations",
+    "sender": "john.smith@acmecorp.com",
+    "body": "We've been experiencing a complete service outage for the past 2 hours. This is severely impacting our business operations and we're losing revenue. We need immediate assistance and an explanation for why this keeps happening. This is the third time this month!",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 250000,
+    "response_time_hours": 0.5
+  },
+  {
+    "id": 2,
+    "subject": "Question about billing",
+    "sender": "sarah.jones@smallbiz.com",
+    "body": "Hi, I noticed an extra charge on my last invoice. Could you please explain what this is for? Not urgent, just want to understand. Thanks!",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 3000,
+    "response_time_hours": 24
+  },
+  {
+    "id": 3,
+    "subject": "Feature request: API rate limit increase",
+    "sender": "dev@techstartup.io",
+    "body": "Our application is growing and we're hitting API rate limits. Would it be possible to increase our limits? We're happy to upgrade to a higher tier if needed.",
+    "starred": true,
+    "customer_tier": "premium",
+    "customer_ltv": 75000,
+    "response_time_hours": 4
+  },
+  {
+    "id": 4,
+    "subject": "Newsletter: Product updates for May",
+    "sender": "marketing@yourcompany.com",
+    "body": "Check out our latest product updates and new features released this month. We've added several improvements based on customer feedback.",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 5000,
+    "response_time_hours": 48
+  },
+  {
+    "id": 5,
+    "subject": "CRITICAL: Data security concern",
+    "sender": "security@financecorp.com",
+    "body": "We've identified what appears to be unauthorized access attempts to our account. We need immediate clarification on your security measures and whether our data has been compromised. This is extremely urgent.",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 500000,
+    "response_time_hours": 0.5
+  },
+  {
+    "id": 6,
+    "subject": "Thank you for the excellent support!",
+    "sender": "happy.customer@business.com",
+    "body": "I just wanted to say thank you to your support team for resolving my issue so quickly yesterday. The service was outstanding and I really appreciate it!",
+    "starred": false,
+    "customer_tier": "premium",
+    "customer_ltv": 45000,
+    "response_time_hours": 24
+  },
+  {
+    "id": 7,
+    "subject": "Considering cancellation - disappointed with service",
+    "sender": "frustrated@company.net",
+    "body": "I've been a customer for 2 years but the recent service quality has been terrible. Multiple outages, slow support responses, and features that don't work as advertised. I'm seriously considering switching to a competitor unless things improve dramatically.",
+    "starred": true,
+    "customer_tier": "premium",
+    "customer_ltv": 60000,
+    "response_time_hours": 2
+  },
+  {
+    "id": 8,
+    "subject": "Integration documentation request",
+    "sender": "developer@startup.com",
+    "body": "Could you point me to the documentation for integrating with your webhooks API? I couldn't find it in the docs section.",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 8000,
+    "response_time_hours": 12
+  },
+  {
+    "id": 9,
+    "subject": "URGENT: Payment processing failure",
+    "sender": "finance@retailchain.com",
+    "body": "Our payment processing has been failing for the last hour. We're unable to complete customer transactions and this is costing us thousands of dollars. We need this fixed immediately!",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 400000,
+    "response_time_hours": 1
+  },
+  {
+    "id": 10,
+    "subject": "Feedback on new dashboard",
+    "sender": "user@company.com",
+    "body": "The new dashboard looks great! I have a few suggestions for improvements that might make it even better. Would love to share them with your product team.",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 12000,
+    "response_time_hours": 48
+  },
+  {
+    "id": 11,
+    "subject": "Account upgrade inquiry",
+    "sender": "growth@expanding.biz",
+    "body": "We're expanding our team and need to upgrade our account. Can you provide information about enterprise plans and pricing?",
+    "starred": true,
+    "customer_tier": "premium",
+    "customer_ltv": 55000,
+    "response_time_hours": 4
+  },
+  {
+    "id": 12,
+    "subject": "Automated report: Weekly usage summary",
+    "sender": "noreply@yourcompany.com",
+    "body": "Your weekly usage summary: 1,234 API calls, 98.5% uptime, 45 active users.",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 6000,
+    "response_time_hours": 72
+  },
+  {
+    "id": 13,
+    "subject": "Extremely frustrated - considering legal action",
+    "sender": "angry@lawfirm.com",
+    "body": "This is unacceptable. We've had 5 outages in 2 weeks, our data was temporarily inaccessible, and your support has been non-responsive. We're evaluating our legal options regarding breach of SLA. We need executive escalation NOW.",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 300000,
+    "response_time_hours": 0.5
+  },
+  {
+    "id": 14,
+    "subject": "Training session request",
+    "sender": "hr@company.org",
+    "body": "We'd like to schedule a training session for our new team members. Do you offer onboarding training? What are the options?",
+    "starred": false,
+    "customer_tier": "premium",
+    "customer_ltv": 80000,
+    "response_time_hours": 24
+  },
+  {
+    "id": 15,
+    "subject": "Performance issues during peak hours",
+    "sender": "ops@ecommerce.com",
+    "body": "We're experiencing significant slowdowns during our peak traffic hours (2-6 PM). This is affecting our customer experience. Can we discuss optimization options or infrastructure upgrades?",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 350000,
+    "response_time_hours": 2
+  },
+  {
+    "id": 16,
+    "subject": "Invoice received - thank you",
+    "sender": "accounting@business.com",
+    "body": "Invoice received and processed. Payment will be sent within 30 days as per our agreement.",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 15000,
+    "response_time_hours": 48
+  },
+  {
+    "id": 17,
+    "subject": "Competitor offering better pricing",
+    "sender": "procurement@corporation.com",
+    "body": "We've received a proposal from your competitor with significantly better pricing and features. Before we make a decision, we wanted to give you a chance to match or improve your offer. We need a response by end of week.",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 450000,
+    "response_time_hours": 4
+  },
+  {
+    "id": 18,
+    "subject": "Minor bug report",
+    "sender": "qa@software.com",
+    "body": "Found a small UI bug in the settings page - the save button doesn't change color on hover. Not critical but thought you'd want to know.",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 4000,
+    "response_time_hours": 72
+  },
+  {
+    "id": 19,
+    "subject": "Renewal discussion needed",
+    "sender": "cfo@bigclient.com",
+    "body": "Our contract is up for renewal next month. Given the service issues we've experienced, we need to discuss terms and pricing before committing to another year.",
+    "starred": true,
+    "customer_tier": "enterprise",
+    "customer_ltv": 600000,
+    "response_time_hours": 2
+  },
+  {
+    "id": 20,
+    "subject": "Webinar invitation: Best practices",
+    "sender": "events@yourcompany.com",
+    "body": "Join us for our upcoming webinar on best practices for maximizing your platform usage. Register now!",
+    "starred": false,
+    "customer_tier": "standard",
+    "customer_ltv": 7000,
+    "response_time_hours": 48
+  }
+]
